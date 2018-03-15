@@ -11,3 +11,6 @@ Create an StockQuote Android application using the Stock.java provided. Your a
 3. The buttons have an added ripple effect every time they are pressed.
 
 ## Screenshots
+![Screenshot1](https://github.com/ricky52194/StockQuotes-Ramos/blob/master/Screen%20Shot%202018-03-15%20at%2012.36.42%20PM.png)  
+![Screenshot2](https://github.com/ricky52194/StockQuotes-Ramos/blob/master/Screen%20Shot%202018-03-15%20at%2012.37.28%20PM.png)  
+![Screenshot3](https://github.com/ricky52194/StockQuotes-Ramos/blob/master/Screen%20Shot%202018-03-15%20at%2012.38.15%20PM.png)  
