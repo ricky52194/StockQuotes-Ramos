@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">StockQuotes-Ramos</string>
+    <string name="Title">Stock Quote Information</string>
+    <string name="Symbol">Symbol:  </string>
+    <string name="Name">Name:  </string>
+    <string name="LastPrice">Last Trade Price:  </string>
+    <string name="LastTradeTime">Last Trade Time:  </string>
+    <string name="Change">Change:  </string>
+    <string name="Range">52 Week Range:  </string>
+    <string name="Hint">Enter Stock Symbol:  </string>
+    <string name="editTextKey">editTextKey</string>
+    <string name="Stock">Stock</string>
+    <string name="stockErrorMsg">Error Retrieving Data!</string>
+    <string name="toastErrorMsg">"Invalid Symbol: Try Again!"</string>
+    <string name="GO">GO</string>
+    <string name="RESET">RESET</string>
+    <string name="Initial"></string>
+    <string name="symbolKey">symbolKey</string>
+    <string name="nameKey">nameKey</string>
+    <string name="priceKey">priceKey</string>
+    <string name="timeKey">timeKey</string>
+    <string name="changeKey">changeKey</string>
+    <string name="rangeKey">rangeKey</string>
+
+</resources>
