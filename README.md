@@ -13,4 +13,4 @@ Create an StockQuote Android application using the Stock.java provided. Your a
 ## Screenshots
 ![Screenshot1](https://github.com/ricky52194/StockQuotes-Ramos/blob/master/Screen%20Shot%202018-03-15%20at%2012.36.42%20PM.png)  
 ![Screenshot2](https://github.com/ricky52194/StockQuotes-Ramos/blob/master/Screen%20Shot%202018-03-15%20at%2012.37.28%20PM.png)  
-![Screenshot3](https://github.com/ricky52194/StockQuotes-Ramos/blob/master/Screen%20Shot%202018-03-15%20at%2012.38.15%20PM.png)  
+![Screenshot3](https://github.com/ricky52194/StockQuotes-Ramos/blob/master/Screen%20Shot%202018-03-15%20at%2012.48.24%20PM.png)  
